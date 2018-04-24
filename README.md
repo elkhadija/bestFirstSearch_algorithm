@@ -1,2 +1,2 @@
 # bestFirstSearch_algorithm
-you only need to change the path of pictures in "Panneau.java" line 65
+you only need to change the path of pictures in "Panneau.java"
